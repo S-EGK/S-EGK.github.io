@@ -2,18 +2,20 @@
 Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinforcement learning and autonomous systems. Proven track record in developing high-performance AI models and control systems, with strong expertise in Python, C++, TensorFlow, and ROS. Adept at applying advanced machine learning techniques to solve complex problems in both academic research and industry projects.
 
 ## Skills
-- **Programming:** Python, C++, MATLAB, SIMULINK, ROS, ROS2
-- **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas
-- **Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
+**Programming:** Python, C++, MATLAB, SIMULINK, ROS, ROS2
+**Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas
+**Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
 
 ## Education					       		
 **M.S., Mechanical Engineering (Robotics and AI) | University of Cincinnati (_April 2024_)**
-- Magna cum Laude | GPA: 3.857/4.0
+- Magna cum Laude
+- GPA: 3.857/4.0
 - Advisor: [Dr. Rajnikant Sharma](https://scholar.google.com/citations?hl=en&user=G-u2cEQAAAAJ)
 - Awards: GIA Scholarship
 
 **B.E., Mechanical Engineering | Osmania University (_May 2018_)**
-- First Class with Distinction | GPA: 73.67/100
+- First Class with Distinction
+- GPA: 73.67/100
 - Advisor: Dr. P.A. Sastry
 
 ## Work Experience
