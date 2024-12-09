@@ -2,14 +2,10 @@
 Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinforcement learning and autonomous systems. Proven track record in developing high-performance AI models and control systems, with strong expertise in Python, C++, TensorFlow, and ROS. Adept at applying advanced machine learning techniques to solve complex problems in both academic research and industry projects.
 
 ## Connect with Me
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" title="GitHub">](https://github.com/S-EGK)  
-  **GitHub**: [https://github.com/S-EGK](https://github.com/S-EGK)
-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">](https://www.linkedin.com/in/srikanthegk/)  
-  **LinkedIn**: [https://www.linkedin.com/in/srikanthegk/](https://www.linkedin.com/in/srikanthegk/)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="40" height="40" title="ORCID">](https://orcid.org/my-orcid?orcid=0000-0002-1354-7836)  
-  **ORCID**: [https://orcid.org/my-orcid?orcid=0000-0002-1354-7836](https://orcid.org/my-orcid?orcid=0000-0002-1354-7836)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="40" height="40" title="Google Scholar">](https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en)  
-  **Google Scholar**: [https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en](https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" title="GitHub">](https://github.com/S-EGK) [https://github.com/S-EGK](https://github.com/S-EGK)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">](https://www.linkedin.com/in/srikanthegk/) [https://www.linkedin.com/in/srikanthegk/](https://www.linkedin.com/in/srikanthegk/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="40" height="40" title="ORCID">](https://orcid.org/my-orcid?orcid=0000-0002-1354-7836) [https://orcid.org/my-orcid?orcid=0000-0002-1354-7836](https://orcid.org/my-orcid?orcid=0000-0002-1354-7836)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="40" height="40" title="Google Scholar">](https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en) [https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en](https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en)
 
 ## Skills
 **Programming:** Python, C++, MATLAB, SIMULINK, ROS, ROS2
