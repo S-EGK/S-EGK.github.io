@@ -1,6 +1,8 @@
 # Aspiring Robotics and ML Engineer
 Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinforcement learning and autonomous systems. Proven track record in developing high-performance AI models and control systems, with strong expertise in Python, C++, TensorFlow, and ROS. Adept at applying advanced machine learning techniques to solve complex problems in both academic research and industry projects.
 
+[Test](/assests/pages/test.html)
+
 ## Skills
 **Programming:** Python, C++, MATLAB, SIMULINK, ROS, ROS2
 **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas
