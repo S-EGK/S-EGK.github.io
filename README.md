@@ -16,7 +16,7 @@
 - Designed and implemented a REST API-based CSV file uploader in Go, allowing uploads up to 100MB with data validation linked to PostgreSQL and Valkey DBs, ensuring 100% data integrity upon upload and storage.
 - Created a Dockerized, deployment-ready server architecture in three weeks, integrating PostgreSQL for process tracking and Valkey for temporary caching, enhancing data handling efficiency by 50% and enabling reliable data storage.
 
-**Instructional Coach @ IDD Education Center, CECH, University of Cincinnati (_September 2023 - April 2024_)
+**Instructional Coach @ IDD Education Center, CECH, University of Cincinnati (_September 2023 - April 2024_)**
 - Customized the Ohio State curriculum to meet the unique needs of neurodivergent high school and college students, improving content accessibility and engagement by 30%.
 - Developed hands-on activities and interactive instruction in computer science fundamentals—including programming, web development, computer networks, database management, and CAD/3D printing—boosting student engagement by 40% and comprehension by 25%.
 - Collaborated with educators and specialists to create inclusive learning environments, implementing adaptive teaching methods that improved student skill acquisition by 20%.
@@ -32,12 +32,12 @@
 - Created a custom loss function that improved training convergence rate by 25%, resulting in faster model deployment.
 - Deployed the trained model on an Nvidia Jetson edge computing device, achieving 99% precision and 99% recall in real-time segmentation, successfully scaling the solution for high-stakes environmental monitoring.
 
-**Graduate Research Assistant @ RISC Lab, AEEM, University of Cincinnati (_December 2022 to April 2023_)
+**Graduate Research Assistant @ RISC Lab, AEEM, University of Cincinnati (_December 2022 to April 2023_)**
 - Developed Deep Reinforcement Learning algorithms for unmanned robotic decision making, motion planning, and control, resulting in riscRL, a custom TensorFlow-based Python library for Reinforcement Learning research.
 - Implemented multi-agent DRL algorithms (PPO, DDPG, and DQN) in TensorFlow for obstacle avoidance, optimizing for both continuous and discrete action spaces in Gazebo simulation, obtaining a model with 100% success rate.
 - Formulated Multi-Agent DDPG algorithms to achieve synchronized convergence of multiple unmanned aerial vehicle with ranging sensors within the AirSim simulator, achieving 95% success rate in presence of noisy sensor data.
 
-**Software Engineer (SAP-EDI Analyst) @ Accenture (_August 2018 - December 2020_)
+**Software Engineer (SAP-EDI Analyst) @ Accenture (_August 2018 - December 2020_)**
 -  Spearheaded the development and maintenance of EDI and IDocs processes within SAP-SD and SAP-MM modules, optimizing system performance and boosting operational efficiency by 20%.
 -  Led cross-functional collaborations to gather and analyze business requirements, designing and developing robust SAP-EDI solutions, resulting in the timely and high-quality delivery of multiple projects.
 -  Authored and maintained comprehensive technical design documents, test cases, and code repositories, ensuring precision and high standards of quality across all deliverables.
@@ -47,7 +47,9 @@
 -  Developed and maintained comprehensive technical documentation and knowledge articles for EDI and IDocs processes, streamlining knowledge transfer within the team and facilitating efficient issue resolution.
 -  Conducted root cause analysis on system issues and implemented permanent solutions, leading to improved system performance and preventing future occurrences, thereby enhancing overall reliability.
 
-**Mechanical Engineering Intern @ Carriage Workshop, South Central Railways, Indian Railways (_May 2016 - August 2016_)
+**Mechanical Engineering Intern @ Carriage Workshop, South Central Railways, Indian Railways (_May 2016 - August 2016_)**
+- Acquired in-depth knowledge of diesel-electric engine components, fostering the ability to identify and diagnose defects.
+- Developed proficiency in inspecting and troubleshooting various parts of diesel-electric engines, enhancing technical expertise.
 
 ## Research Projects
 
