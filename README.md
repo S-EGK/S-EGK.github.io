@@ -40,18 +40,15 @@
 - Developed proficiency in inspecting and troubleshooting various parts of diesel-electric engines, enhancing technical expertise.
 
 ## Research Projects
-**Master's Thesis @ University of Cincinnati**
-- Deep Reinforcement Learning Based Search and Capture with Erroneous Information
-  - Implemented the Double Deep Q-Network model with optimized reward function using TensorFlow to train an autonomous UAV to search and capture an intruder in a grid with erroneous information, achieving 97% success rate.
+### Deep Reinforcement Learning Based Search and Capture with Erroneous Information | [Master's Thesis](https://www.proquest.com/openview/bbaece95cf031a67a70c1281177093cb/1?pq-origsite=gscholar&cbl=18750&diss=y) @ University of Cincinnati
+- Implemented the Double Deep Q-Network model with optimized reward function using TensorFlow to train an autonomous UAV to search and capture an intruder in a grid with erroneous information, achieving 97% success rate.
 
-**UnderGrad Capstone @ Osmania University**
-- Modelling and Simulation of an Excavator Backhoe Manipulator
-  - Developed a detailed kinematic model of an excavator’s backhoe manipulator through reverse engineering, implementing a C++-based simulation to capture joint movements, and bucket trajectory throughout its operation.
-
+### Modelling and Simulation of an Excavator Backhoe Manipulator | UnderGrad Capstone @ Osmania University
+- Developed a detailed kinematic model of an excavator’s backhoe manipulator through reverse engineering, implementing a C++-based simulation to capture joint movements, and bucket trajectory throughout its operation.
 
 ## Course Projects
 
 ## Personal Projects
 
 ## Publications
-- Srikanth Elkoori Ghantala Karnam and Rajnikant Sharma, “Q-Learning Based Search of a Ground Target in a grid with partial information”, AIAA 2023-2654, AIAA SCITECH 2023 Forum, Washington DC, USA
+- Srikanth Elkoori Ghantala Karnam and Rajnikant Sharma, “Q-Learning Based Search of a Ground Target in a grid with partial information”, [AIAA 2023-2654](https://doi.org/10.2514/6.2023-2654), AIAA SCITECH 2023 Forum, Washington DC, USA
