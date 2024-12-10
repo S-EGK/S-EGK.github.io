@@ -1,8 +1,6 @@
 # Aspiring Robotics and ML Engineer
 Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinforcement learning and autonomous systems. Proven track record in developing high-performance AI models and control systems, with strong expertise in Python, C++, TensorFlow, and ROS. Adept at applying advanced machine learning techniques to solve complex problems in both academic research and industry projects.
 
-[Page](/assests/pages/another.html)
-
 ## Connect with Me
 <a href="mailto:egk.srikanth@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40" title="Gmail">
@@ -25,8 +23,8 @@ Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinfor
 **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas <br>
 **Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
 
-[Experience](assests/pages/experience.html) <br>
-[Education](assests/pages/education.html) <br>
+## [Experience](assests/pages/experience.html) <br>
+## [Education](assests/pages/education.html) <br>
 
 ## Research Projects
 ***Deep Reinforcement Learning Based Search and Capture with Erroneous Information | [Master's Thesis](https://www.proquest.com/openview/bbaece95cf031a67a70c1281177093cb/1?pq-origsite=gscholar&cbl=18750&diss=y) @ University of Cincinnati***
