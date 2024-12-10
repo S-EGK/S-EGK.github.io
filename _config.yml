@@ -22,26 +22,17 @@ platforms:
   - name: Google Scholar
     icon: <i class="fa-brands fa-google scholar"></i>
     link: https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en
-# navigation:
-#   - name: Home Page
-#     link: ./
-#     sublist:
-#       - name: Usage
-#         link: ./#usage
-#       - name: Customizing
-#         link: ./#customizing
-#       - name: Customizing Sidebar
-#         link: ./#customizing-sidebar
-#       - name: Navigation
-#         link: ./#navigation
-#       - name: Example
-#         link: ./#example
-#       - name: Stylesheet
-#         link: ./#stylesheet
-#       - name: Credits
-#         link: ./#credits
-#   - name: Sample
-#     link: ./another-page.html
-#     sublist:
-#       - name: Image
-#         link: ./another-page.html#small-image
+navigation:
+  - name: Home Page
+    link: ./
+    sublist:
+      - name: Education
+        link: ./Education.md
+      - name: Experience
+        link: ./Experience.md
+      - name: Projects
+        link: ./Projects.md
+      - name: Certifications
+        link: ./Certifications.md
+      - name: Publications
+        link: ./Publications.md
