@@ -20,6 +20,9 @@ Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinfor
 
 ## Skills
 **Programming:** Python, C++, MATLAB, SIMULINK, ROS, ROS2 <br>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python">
+</a> [Python]("https://www.python.org") <br>
 **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas <br>
 **Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
 
