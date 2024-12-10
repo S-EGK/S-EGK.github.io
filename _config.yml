@@ -1,6 +1,6 @@
 title: Srikanth, Elkoori Ghantala Karnam
 logo: /assests/img/profile_picture.png
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
 minima:
