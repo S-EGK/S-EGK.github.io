@@ -1,5 +1,18 @@
 title: Srikanth, Elkoori Ghantala Karnam
 logo: /assests/img/profile_picture.png
-remote_theme: pages-themes/minimal@v0.2.0
+email: vbhvvikas@gmail.com
+favicon: true
+color-scheme: auto
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/S-EGK
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/srikanthegk/
