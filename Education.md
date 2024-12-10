@@ -21,4 +21,4 @@ layout: default
 ### Undergraduate Capstone: _Modelling and Simulation of an Excavator Backhoe Manipulator_
 - Developed a detailed kinematic model of an excavator’s backhoe manipulator through reverse engineering, implementing a C++-based simulation to capture joint movements, and bucket trajectory throughout its operation.
 
-<a href="s-egk.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
+<a href="s-egk.github.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
