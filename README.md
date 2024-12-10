@@ -1,3 +1,5 @@
+<button id="dark-mode-toggle">Toggle Dark Mode</button>
+
 # Aspiring Robotics and ML Engineer
 Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinforcement learning and autonomous systems. Proven track record in developing high-performance AI models and control systems, with strong expertise in Python, C++, TensorFlow, and ROS. Adept at applying advanced machine learning techniques to solve complex problems in both academic research and industry projects.
 
