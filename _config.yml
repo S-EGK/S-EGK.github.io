@@ -19,3 +19,29 @@ platforms:
   - name: ORCID
     icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/my-orcid?orcid=0000-0002-1354-7836
+  - name: Google Scholar
+    icon: <i class="fa-brands fa-scholar"></i>
+    link: https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en
+# navigation:
+#   - name: Home Page
+#     link: ./
+#     sublist:
+#       - name: Usage
+#         link: ./#usage
+#       - name: Customizing
+#         link: ./#customizing
+#       - name: Customizing Sidebar
+#         link: ./#customizing-sidebar
+#       - name: Navigation
+#         link: ./#navigation
+#       - name: Example
+#         link: ./#example
+#       - name: Stylesheet
+#         link: ./#stylesheet
+#       - name: Credits
+#         link: ./#credits
+#   - name: Sample
+#     link: ./another-page.html
+#     sublist:
+#       - name: Image
+#         link: ./another-page.html#small-image
