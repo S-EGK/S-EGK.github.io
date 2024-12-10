@@ -23,7 +23,7 @@ Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinfor
 **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas <br>
 **Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
 
-## [Education](Education.md) <br>
+## [Education](assests/pages/education.md) <br>
 ## [Experience](assests/pages/experience.html) <br>
 
 ## Research Projects
