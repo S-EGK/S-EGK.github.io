@@ -24,7 +24,7 @@ Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinfor
 **Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
 
 ## [Education](Education.md) <br>
-## [Experience](assests/pages/experience.html) <br>
+## [Experience](Experience.md) <br>
 
 ## Research Projects
 ***Deep Reinforcement Learning Based Search and Capture with Erroneous Information | [Master's Thesis](https://www.proquest.com/openview/bbaece95cf031a67a70c1281177093cb/1?pq-origsite=gscholar&cbl=18750&diss=y) @ University of Cincinnati***
