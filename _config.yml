@@ -22,6 +22,8 @@ platforms:
   - name: Google Scholar
     icon: <i class="fa-brands fa-google scholar"></i>
     link: https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en
+github:
+  is_project_page: false
 # navigation:
 #   - name: Home Page
 #     link: ./
