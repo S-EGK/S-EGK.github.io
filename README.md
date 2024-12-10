@@ -25,8 +25,8 @@ Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinfor
 **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas <br>
 **Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
 
-[Experience](assests/pages/experience.html)
-[Education](assests/pages/education.html)
+[Experience](assests/pages/experience.html) <br>
+[Education](assests/pages/education.html) <br>
 
 ## Research Projects
 ***Deep Reinforcement Learning Based Search and Capture with Erroneous Information | [Master's Thesis](https://www.proquest.com/openview/bbaece95cf031a67a70c1281177093cb/1?pq-origsite=gscholar&cbl=18750&diss=y) @ University of Cincinnati***
