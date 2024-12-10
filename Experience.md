@@ -32,4 +32,4 @@ layout: default
 - Acquired in-depth knowledge of diesel-electric engine components, fostering the ability to identify and diagnose defects.
 - Developed proficiency in inspecting and troubleshooting various parts of diesel-electric engines, enhancing technical expertise.
 
-<a href="s-egk.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
+<a href="s-egk.github.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
