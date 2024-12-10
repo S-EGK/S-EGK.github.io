@@ -27,12 +27,12 @@ navigation:
     link: ./
     sublist:
       - name: Education
-        link: ./Education.md
+        link: ./Education.html
       - name: Experience
-        link: ./Experience.md
+        link: ./Experience.html
       - name: Projects
-        link: ./Projects.md
+        link: ./Projects.html
       - name: Certifications
-        link: ./Certifications.md
+        link: ./Certifications.html
       - name: Publications
-        link: ./Publications.md
+        link: ./Publications.html
