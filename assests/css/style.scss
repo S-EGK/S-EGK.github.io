@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Dark Mode Styles */
+body.dark-mode {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Transition for smooth toggle */
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode link styles */
+a {
+  color: #007acc;
+}
+a.dark-mode {
+  color: #66c0ff;
+}
