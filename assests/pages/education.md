@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Education					       		
+# Education					       		
 **M.S., Mechanical Engineering (Robotics and AI) | University of Cincinnati (_April 2024_)**
 - Magna cum Laude
 - GPA: 3.857/4.0
