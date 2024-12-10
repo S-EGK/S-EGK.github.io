@@ -1,11 +1,8 @@
 title: Srikanth, Elkoori Ghantala Karnam
 logo: /assests/img/profile_picture.png
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-assets
-  - jekyll-sitemap
-  - jekyll-seo-tag
-# Custom Includes
+sass:
+  style: compressed
 include:
-  - assets/css/custom.css
+  - assets/css/style.scss
   - assets/js/dark-mode.js
