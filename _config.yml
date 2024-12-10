@@ -20,7 +20,7 @@ platforms:
     icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/my-orcid?orcid=0000-0002-1354-7836
   - name: Google Scholar
-    icon: <i class="fa-brands fa-scholar"></i>
+    icon: <i class="fa-brands fa-google scholar"></i>
     link: https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en
 # navigation:
 #   - name: Home Page
