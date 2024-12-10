@@ -19,12 +19,15 @@ Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinfor
 </a> [Google Scholar](https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en)
 
 ## Skills
-**Programming:** Python, C++, MATLAB, SIMULINK, ROS, ROS2 <br>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python">
+**Programming:** ROS, ROS2 <br>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python">
 </a> [Python]("https://www.python.org") <br>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++">
+</a> [C++]("https://cplusplus.com/") <br>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" title="Matlab"> </a> [Matlab]("[https://www.python.org](https://www.mathworks.com/)") <br>
+
 **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, CUDA, NumPy, SciPy, Matplotlib, Pandas <br>
-**Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys
+**Technologies:** Gazebo, Rviz, Git, Docker, Linux, SolidWorks, Ansys, SIMULINK
 
 ## [Education](Education.md) <br>
 ## [Experience](Experience.md) <br>
