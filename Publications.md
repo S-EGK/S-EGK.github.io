@@ -11,4 +11,4 @@ layout: default
 - **Srikanth Elkoori Ghantala Karnam** and Rajnikant Sharma, "Deep Reinforcement Learning based pursuit of a ground target in a grid with local, partial and erroneous information", 49DCASS-099, AIAA 49th DCASS, Dayton, USA, March 2024
 - **Srikanth Elkoori Ghantala Karnam** and Rajnikant Sharma, "Reinforcement Learning based search of a moving ground target by a UAV aided by ground sensors", 47DCASS-113, AIAA 47th DCASS, Dayton, USA, March 2022
 
-<a href="s-egk.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
+<a href="s-egk.github.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
