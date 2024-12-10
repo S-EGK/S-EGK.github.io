@@ -26,13 +26,6 @@ Multi-disciplinary Engineer with an MS in Robotics, specializing in deep reinfor
 ## [Education](Education.md) <br>
 ## [Experience](Experience.md) <br>
 
-## Research Projects
-***Deep Reinforcement Learning Based Search and Capture with Erroneous Information | [Master's Thesis](https://www.proquest.com/openview/bbaece95cf031a67a70c1281177093cb/1?pq-origsite=gscholar&cbl=18750&diss=y) @ University of Cincinnati***
-- Implemented the Double Deep Q-Network model with optimized reward function using TensorFlow to train an autonomous UAV to search and capture an intruder in a grid with erroneous information, achieving 97% success rate.
-
-***Modelling and Simulation of an Excavator Backhoe Manipulator | UnderGrad Capstone @ Osmania University***
-- Developed a detailed kinematic model of an excavator’s backhoe manipulator through reverse engineering, implementing a C++-based simulation to capture joint movements, and bucket trajectory throughout its operation.
-
 ## Course Projects
 
 ## Personal Projects
