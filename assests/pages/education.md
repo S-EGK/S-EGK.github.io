@@ -14,4 +14,4 @@ layout: default
 - GPA: 73.67/100
 - Advisor: Dr. P.A. Sastry
 
-[Home](./s-egk.github.io/)
+[Home](https://github.com/S-EGK/S-EGK.github.io/blob/main/s-egk.github.io)
