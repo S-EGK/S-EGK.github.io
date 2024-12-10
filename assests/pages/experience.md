@@ -32,4 +32,4 @@ layout: default
 - Acquired in-depth knowledge of diesel-electric engine components, fostering the ability to identify and diagnose defects.
 - Developed proficiency in inspecting and troubleshooting various parts of diesel-electric engines, enhancing technical expertise.
 
-[Home](./)
+[Home](././)
