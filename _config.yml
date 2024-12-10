@@ -1,6 +1,6 @@
 title: Srikanth, Elkoori Ghantala Karnam
 logo: /assests/img/profile_picture.png
-email: vbhvvikas@gmail.com
+email: egk.srikanth@gmail.com
 favicon: true
 color-scheme: auto
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
@@ -16,3 +16,6 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/srikanthegk/
+  - name: ORCID
+    icon: <i class="fa-brands fa-orcid"></i>
+    link: https://orcid.org/my-orcid?orcid=0000-0002-1354-7836
