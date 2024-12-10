@@ -1,41 +1,25 @@
 ---
 ---
 
-/* @import "{{ site.theme }}";  this is the default */
+@import "{{ site.theme }}";
 
-@import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css";
-
+// Define custom dark mode styles
 body {
-  margin: 0;
+  background-color: #121212; // Dark background
+  color: #ffffff; // Light text
 }
 
-@media (prefers-color-scheme: light) {
-  body {
-    /*
-    --color-canvas-default, copied from 
-    https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css
-    */
-    background-color: #ffffff;
-  }
+a {
+  color: #bb86fc; // Highlight links
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    /* --color-canvas-default */
-    background-color: #0d1117;
-  }
+header, footer {
+  background-color: #1e1e1e; // Slightly lighter dark sections for header and footer
+  color: #ffffff;
 }
 
-.markdown-body {
-  box-sizing: border-box;
-  min-width: 200px;
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 45px;
-}
-
-@media (max-width: 767px) {
-  .markdown-body {
-    padding: 15px;
-  }
+button, input {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border: 1px solid #333333;
 }
