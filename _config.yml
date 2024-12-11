@@ -9,19 +9,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/S-EGK
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/srikanthegk/
-  - name: ORCID
-    icon: <i class="fa-brands fa-orcid"></i>
-    link: https://orcid.org/my-orcid?orcid=0000-0002-1354-7836
-  - name: Google Scholar
-    icon: <i class="fa-brands fa-google scholar"></i>
-    link: https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en
 navigation:
   - name: Home Page
     link: ./
@@ -36,3 +23,16 @@ navigation:
         link: ./Certifications.html
       - name: Publications
         link: ./Publications.html
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/S-EGK
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/srikanthegk/
+  - name: ORCID
+    icon: <i class="fa-brands fa-orcid"></i>
+    link: https://orcid.org/my-orcid?orcid=0000-0002-1354-7836
+  - name: Google Scholar
+    icon: <i class="fa-brands fa-google scholar"></i>
+    link: https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en
