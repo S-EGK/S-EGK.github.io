@@ -10,7 +10,7 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
 
 <div class="timeline">
 
-  <!-- STOKES ROBOTICS (merged company card with role sub-blocks + promotion arrow) -->
+  <!-- STOKES ROBOTICS (promotion; each role has its own bullet) -->
   <div class="tl-item">
     <div class="tl-left"></div>
     <div class="tl-mid"><div class="tl-dot work"></div></div>
@@ -30,6 +30,9 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
           <div class="role-block">
             <div class="role-title"><strong>Lead Robotics Engineer</strong></div>
             <div class="role-dates muted">Jun 2025 – Present</div>
+            <ul>
+              <li>Led autonomy, simulation validation, and embedded perception deployment to support real-time multi-robot field operation.</li>
+            </ul>
           </div>
 
           <div class="role-sep promoted" aria-hidden="true">
@@ -39,12 +42,11 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
           <div class="role-block">
             <div class="role-title"><strong>Robotics Engineering Intern</strong></div>
             <div class="role-dates muted">Jan 2025 – Jun 2025</div>
+            <ul>
+              <li>Built ROS 2 + simulation workflows (Isaac Sim / MuJoCo / Gazebo) to reduce hardware iteration cycles.</li>
+            </ul>
           </div>
         </div>
-
-        <ul>
-          <li>Delivered simulation-driven autonomy and Jetson-optimized perception pipelines enabling real-time multi-robot deployment.</li>
-        </ul>
       </div>
     </div>
   </div>
@@ -71,10 +73,10 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
     </div>
   </div>
 
-  <!-- UC: OVERLAP ROW (Education + Work side-by-side) -->
+  <!-- UC OVERLAP ROW: Education (left) + UC roles (right) -->
   <div class="tl-item">
     <div class="tl-left">
-      <div class="tl-date">Dec 2022 – Apr 2024</div>
+      <div class="tl-date">Jan 2021 – Apr 2024</div>
 
       <div class="tl-card education full reveal">
         <span class="tl-tag education">Education</span>
@@ -83,7 +85,7 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
             University of Cincinnati
           </a>
         </h3>
-        <p class="muted"><strong>M.S. Mechanical Engineering</strong> · 2024</p>
+        <p class="muted"><strong>M.S. Mechanical Engineering</strong> · Jan 2021 – Apr 2024</p>
         <ul>
           <li>Focus: robotics, autonomy, reinforcement learning, perception.</li>
         </ul>
@@ -107,25 +109,27 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
           <div class="role-block">
             <div class="role-title"><strong>Lead Instructional Coach</strong></div>
             <div class="role-dates muted">Sep 2023 – Apr 2024</div>
+            <ul>
+              <li>Led instructional support and mentoring for engineering coursework, strengthening student outcomes in technical problem-solving.</li>
+            </ul>
           </div>
 
-          <!-- no arrow: different roles (not a promotion chain) -->
+          <!-- no arrow: different roles -->
           <div class="role-sep" aria-hidden="true"></div>
 
           <div class="role-block">
             <div class="role-title"><strong>Graduate Research Assistant</strong></div>
             <div class="role-dates muted">Dec 2022 – Apr 2023</div>
+            <ul>
+              <li>Conducted reinforcement learning research contributing to a peer-reviewed AIAA SCITECH 2023 publication.</li>
+            </ul>
           </div>
         </div>
-
-        <ul>
-          <li>Conducted reinforcement learning research and instructional leadership, contributing to a peer-reviewed AIAA SCITECH 2023 publication.</li>
-        </ul>
       </div>
     </div>
   </div>
 
-  <!-- CATTLEQUANTS -->
+  <!-- CATTLEQUANTS (during UC) -->
   <div class="tl-item">
     <div class="tl-left"></div>
     <div class="tl-mid"><div class="tl-dot work"></div></div>
@@ -147,7 +151,7 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
     </div>
   </div>
 
-  <!-- ACCENTURE (sub-blocks + promotion arrow) -->
+  <!-- ACCENTURE (promotion; each role has its own bullet) -->
   <div class="tl-item">
     <div class="tl-left"></div>
     <div class="tl-mid"><div class="tl-dot work"></div></div>
@@ -167,6 +171,9 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
           <div class="role-block">
             <div class="role-title"><strong>Software Engineer</strong></div>
             <div class="role-dates muted">Jun 2020 – Dec 2020</div>
+            <ul>
+              <li>Owned delivery of C++ middleware features for enterprise SAP integrations in production environments.</li>
+            </ul>
           </div>
 
           <div class="role-sep promoted" aria-hidden="true">
@@ -176,20 +183,32 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
           <div class="role-block">
             <div class="role-title"><strong>Associate Software Engineer</strong></div>
             <div class="role-dates muted">Aug 2018 – Jun 2020</div>
+            <ul>
+              <li>Improved production reliability via structured testing and failure analysis, collaborating across teams and CI/CD workflows.</li>
+            </ul>
           </div>
         </div>
-
-        <ul>
-          <li>Developed C++ middleware systems and improved production reliability through structured testing and failure analysis.</li>
-        </ul>
       </div>
     </div>
   </div>
 
-  <!-- SOUTH CENTRAL RAILWAY -->
+  <!-- OU OVERLAP ROW: Education (left) + Railways internship (right) -->
   <div class="tl-item">
-    <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot work"></div></div>
+    <div class="tl-left">
+      <div class="tl-date">Aug 2014 – Jun 2018</div>
+
+      <div class="tl-card education full reveal">
+        <span class="tl-tag education">Education</span>
+        <h3>Osmania University</h3>
+        <p class="muted"><strong>B.E. Mechanical Engineering</strong> · Aug 2014 – Jun 2018</p>
+        <ul>
+          <li>Training in mechanics, system design, and engineering analysis foundations.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="tl-mid"><div class="tl-dot education"></div></div>
+
     <div class="tl-right">
       <div class="tl-date">May 2016 – Aug 2016</div>
 
@@ -204,82 +223,115 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
     </div>
   </div>
 
-  <!-- OSMANIA UNIVERSITY -->
-  <div class="tl-item">
-    <div class="tl-left">
-      <div class="tl-date">2014 – 2018</div>
-
-      <div class="tl-card education full reveal">
-        <span class="tl-tag education">Education</span>
-        <h3>Osmania University</h3>
-        <p class="muted">B.E. Mechanical Engineering</p>
-        <ul>
-          <li>Training in mechanics, control systems, and system modeling.</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="tl-mid"><div class="tl-dot education"></div></div>
-    <div class="tl-right"></div>
-  </div>
-
 </div>
 
 ## Skills
 
-<div class="badges">
-  <span class="badge">ROS / ROS2</span>
-  <span class="badge">Nav2</span>
-  <span class="badge">MoveIt</span>
-  <span class="badge">CycloneDDS</span>
-  <span class="badge">Isaac Sim</span>
-  <span class="badge">MuJoCo</span>
-  <span class="badge">Gazebo</span>
-  <span class="badge">Jetson (Orin family)</span>
-  <span class="badge">TensorRT</span>
-  <span class="badge">CUDA</span>
-  <span class="badge">Python</span>
-  <span class="badge">C++ (C++17)</span>
-  <span class="badge">MATLAB</span>
-  <span class="badge">Linux</span>
-  <span class="badge">Docker</span>
-  <span class="badge">Git</span>
+<div class="badge-row">
+  <div class="badge-label">Robotics & Middleware</div>
+  <div class="badges">
+    <span class="badge">ROS / ROS2</span><span class="badge">Nav2</span><span class="badge">MoveIt</span><span class="badge">CycloneDDS</span><span class="badge">RViz</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">Simulation</div>
+  <div class="badges">
+    <span class="badge">Isaac Sim</span><span class="badge">MuJoCo</span><span class="badge">Gazebo</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">Embedded & Compute</div>
+  <div class="badges">
+    <span class="badge">Jetson (Orin family)</span><span class="badge">TensorRT</span><span class="badge">CUDA</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">Programming</div>
+  <div class="badges">
+    <span class="badge">Python</span><span class="badge">C++ (C++17)</span><span class="badge">MATLAB</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">Tools</div>
+  <div class="badges">
+    <span class="badge">Linux</span><span class="badge">Docker</span><span class="badge">Git</span>
+  </div>
 </div>
 
 ## Robots & Sensors
 
-**Robots (by form factor)**  
-<div class="badges">
-  <span class="badge badge-group">Quadrupeds</span>
-  <span class="badge">Unitree Go2</span>
-  <span class="badge">Unitree B2</span>
-
-  <span class="badge badge-group">Humanoid</span>
-  <span class="badge">Unitree G1</span>
-
-  <span class="badge badge-group">Robotic Arm</span>
-  <span class="badge">Trossen WidowX AI Arm</span>
-
-  <span class="badge badge-group">Robotic Hands</span>
-  <span class="badge">Inspire Hand</span>
-  <span class="badge">BrainCo Hand</span>
+<div class="badge-row">
+  <div class="badge-label">Quadrupeds</div>
+  <div class="badges">
+    <span class="badge">Unitree Go2</span><span class="badge">Unitree B2</span>
+  </div>
 </div>
 
-**Sensors (by type)**  
-<div class="badges">
-  <span class="badge badge-group">LiDAR</span>
-  <span class="badge">Livox Mid-360</span>
-  <span class="badge">Robosense Helios</span>
+<div class="badge-row">
+  <div class="badge-label">Humanoid</div>
+  <div class="badges">
+    <span class="badge">Unitree G1</span>
+  </div>
+</div>
 
-  <span class="badge badge-group">Depth Cameras</span>
-  <span class="badge">Intel RealSense</span>
+<div class="badge-row">
+  <div class="badge-label">Robotic Arm</div>
+  <div class="badges">
+    <span class="badge">Trossen WidowX AI Arm</span>
+  </div>
+</div>
 
-  <span class="badge badge-group">Thermal</span>
-  <span class="badge">FLIR thermal cameras</span>
+<div class="badge-row">
+  <div class="badge-label">Robotic Hands</div>
+  <div class="badges">
+    <span class="badge">Inspire Hand</span><span class="badge">BrainCo Hand</span>
+  </div>
+</div>
 
-  <span class="badge badge-group">Acoustic</span>
-  <span class="badge">CrySound acoustic imager</span>
+<div class="badge-row">
+  <div class="badge-label">LiDAR</div>
+  <div class="badges">
+    <span class="badge">Livox Mid-360</span><span class="badge">Robosense Helios</span>
+  </div>
+</div>
 
+<div class="badge-row">
+  <div class="badge-label">Depth Cameras</div>
+  <div class="badges">
+    <span class="badge">Intel RealSense</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">Thermal</div>
+  <div class="badges">
+    <span class="badge">FLIR thermal cameras</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">Acoustic</div>
+  <div class="badges">
+    <span class="badge">CrySound acoustic imager</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">Vision</div>
+  <div class="badges">
+    <span class="badge">RGB cameras</span>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="badge-label">State Estimation</div>
+  <div class="badges">
+    <span class="badge">IMU</span>
+  </div>
 </div>
 
 ## Publication
