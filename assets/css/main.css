@@ -284,3 +284,91 @@ h3 { margin: 18px 0 8px; font-size: 1.1rem; }
 .page-content p {
   max-width: 100%;
 }
+
+/* =========================
+   Scroll reveal animation
+========================= */
+.reveal {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 420ms ease, transform 420ms ease;
+  will-change: opacity, transform;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Make paragraph text use full width (avoid weird empty space) */
+.page-content p { max-width: 100%; }
+
+/* Role-based accents (subtle left border + dots/tags) */
+.tl-card.work { border-left: 4px solid #2563eb; }
+.tl-card.research { border-left: 4px solid #9333ea; }
+.tl-card.education { border-left: 4px solid #059669; }
+
+.tl-tag.work { color: #2563eb; }
+.tl-tag.research { color: #9333ea; }
+.tl-tag.education { color: #059669; }
+
+.tl-dot.work { border-color: #2563eb; }
+.tl-dot.research { border-color: #9333ea; }
+.tl-dot.education { border-color: #059669; }
+
+/* Role sub-blocks inside a company card */
+.role-stack {
+  margin: 10px 0 10px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+  overflow: hidden;
+}
+.role-block {
+  padding: 10px 12px;
+  background: var(--card);
+}
+.role-title { margin-bottom: 2px; }
+.role-dates { font-size: 0.92rem; }
+
+/* Separator: only show arrow for promotions */
+.role-sep {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 22px;
+  background: var(--bg);
+}
+.role-sep.promoted .role-arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: #16a34a;
+  font-weight: 800;
+}
+
+/* Badges (skills / robots / sensors) */
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 12px;
+  margin: 10px 0 6px;
+}
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card);
+  font-size: 0.95rem;
+  line-height: 1;
+}
+.badge.badge-group {
+  font-weight: 700;
+  background: var(--bg);
+}
