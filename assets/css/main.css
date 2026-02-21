@@ -86,7 +86,7 @@ h2 { margin: 26px 0 10px; font-size: 1.35rem; }
 h3 { margin: 18px 0 8px; font-size: 1.1rem; }
 
 .page-title { margin-top: 10px; }
-.page-content p { max-width: 80ch; }
+.page-content { max-width: 100%; }
 
 /* =========================
    UI components
@@ -256,3 +256,31 @@ h3 { margin: 18px 0 8px; font-size: 1.1rem; }
 .tl-dot.work { border-color: #2563eb; }
 .tl-dot.research { border-color: #9333ea; }
 .tl-dot.education { border-color: #059669; }
+
+/* Make timeline cards span full width */
+.tl-card.full {
+  max-width: 100%;
+}
+
+/* Make left-side cards full width instead of narrow */
+.tl-left .tl-card.full {
+  margin-left: 0;
+  text-align: left;
+}
+
+/* Remove visual section separation */
+.page-content h2 {
+  margin-top: 40px;
+  border-bottom: none;
+}
+
+/* Promotion styling */
+.promotion {
+  color: #16a34a;
+  font-weight: 600;
+}
+
+/* Ensure summary and sections use full width */
+.page-content p {
+  max-width: 100%;
+}

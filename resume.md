@@ -7,12 +7,12 @@ permalink: /resume/
 ## Professional Summary
 
 Robotics Engineer specializing in autonomy, perception, and embedded deployment on NVIDIA Jetson platforms. 
-Experience spans simulation-to-hardware validation, ROS 2 autonomy stacks, real-time vision pipelines, and ML optimization using TensorRT and CUDA. 
-Focused on building deployable robotic systems with measurable performance improvements and field reliability.
+Experienced in building simulation-to-hardware workflows, real-time vision pipelines, ROS 2 autonomy stacks, and optimized ML inference using TensorRT and CUDA. 
+Focused on delivering deployable robotic systems with measurable performance improvements, operational reliability, and scalable architecture design.
 
 <div class="timeline">
 
-  <!-- STOKES ROBOTICS (merged roles) -->
+  <!-- STOKES ROBOTICS -->
   <div class="tl-item">
     <div class="tl-left"></div>
     <div class="tl-mid"><div class="tl-dot work"></div></div>
@@ -20,16 +20,14 @@ Focused on building deployable robotic systems with measurable performance impro
       <div class="tl-date">Jan 2025 – Present</div>
       <div class="tl-card work">
         <span class="tl-tag work">Work</span>
-        <h3>
-          <a href="https://stokesrobotics.com" target="_blank">
-            Stokes Robotics
-          </a>
-        </h3>
-        <p class="muted">Lead Robotics Engineer (Jun 2025 – Present)<br>
-        Robotics Engineering Intern (Jan 2025 – Jun 2025)<br>
-        Joplin, MO · On-site</p>
+        <h3><a href="https://stokesrobotics.com" target="_blank">Stokes Robotics</a></h3>
+        <p class="muted">
+          <strong>Lead Robotics Engineer</strong> (Jun 2025 – Present)<br>
+          ↑ Promoted from Robotics Engineering Intern (Jan 2025 – Jun 2025)<br>
+          Joplin, MO · On-site
+        </p>
         <ul>
-          <li>Delivered simulation-driven autonomy and Jetson-optimized perception pipelines enabling real-time multi-robot deployment.</li>
+          <li>Led autonomy integration, simulation validation, and Jetson-optimized perception deployment across multi-robot systems.</li>
         </ul>
       </div>
     </div>
@@ -43,42 +41,34 @@ Focused on building deployable robotic systems with measurable performance impro
       <div class="tl-date">Aug 2024 – Jan 2025</div>
       <div class="tl-card research">
         <span class="tl-tag research">Research</span>
-        <h3>
-          <a href="https://vistruaz.com" target="_blank">
-            Vistruaz LLC
-          </a>
-        </h3>
+        <h3><a href="https://vistruaz.com" target="_blank">Vistruaz LLC</a></h3>
         <p class="muted">AI Research Assistant · Remote</p>
         <ul>
-          <li>Implemented complex-valued neural networks and model observability tooling for experimental evaluation.</li>
+          <li>Implemented complex-valued neural networks and internal model observability tooling for research experimentation.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- UNIVERSITY OF CINCINNATI (merged academic roles + degree) -->
+  <!-- UNIVERSITY OF CINCINNATI ROLES (WORK SIDE) -->
   <div class="tl-item">
-    <div class="tl-left">
-      <div class="tl-date">2021 – 2024</div>
-      <div class="tl-card education">
-        <span class="tl-tag education">Education</span>
-        <h3>
-          <a href="https://www.uc.edu" target="_blank">
-            University of Cincinnati
-          </a>
-        </h3>
+    <div class="tl-left"></div>
+    <div class="tl-mid"><div class="tl-dot work"></div></div>
+    <div class="tl-right">
+      <div class="tl-date">Dec 2022 – Apr 2024</div>
+      <div class="tl-card work">
+        <span class="tl-tag work">Work</span>
+        <h3><a href="https://www.uc.edu" target="_blank">University of Cincinnati</a></h3>
         <p class="muted">
-          M.S. Mechanical Engineering (2024)<br>
           Lead Instructional Coach (Sep 2023 – Apr 2024)<br>
-          Graduate Research Assistant (Dec 2022 – Apr 2023)
+          Graduate Research Assistant (Dec 2022 – Apr 2023)<br>
+          Cincinnati, OH
         </p>
         <ul>
-          <li>Conducted autonomy and reinforcement learning research resulting in AIAA SCITECH 2023 publication.</li>
+          <li>Contributed to autonomy and reinforcement learning research culminating in peer-reviewed AIAA SCITECH publication.</li>
         </ul>
       </div>
     </div>
-    <div class="tl-mid"><div class="tl-dot education"></div></div>
-    <div class="tl-right"></div>
   </div>
 
   <!-- CATTLEQUANTS -->
@@ -89,20 +79,16 @@ Focused on building deployable robotic systems with measurable performance impro
       <div class="tl-date">May 2023 – Sep 2023</div>
       <div class="tl-card work">
         <span class="tl-tag work">Work</span>
-        <h3>
-          <a href="https://cattlequants.com" target="_blank">
-            CattleQuants
-          </a>
-        </h3>
+        <h3><a href="https://cattlequants.com" target="_blank">CattleQuants</a></h3>
         <p class="muted">Machine Learning Intern · Remote</p>
         <ul>
-          <li>Built and optimized U-Net segmentation pipelines and deployed TensorRT inference on embedded Jetson platforms.</li>
+          <li>Built U-Net segmentation systems and deployed optimized TensorRT inference pipelines on NVIDIA Jetson hardware.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- ACCENTURE (merged roles) -->
+  <!-- ACCENTURE -->
   <div class="tl-item">
     <div class="tl-left"></div>
     <div class="tl-mid"><div class="tl-dot work"></div></div>
@@ -110,24 +96,39 @@ Focused on building deployable robotic systems with measurable performance impro
       <div class="tl-date">Aug 2018 – Dec 2020</div>
       <div class="tl-card work">
         <span class="tl-tag work">Work</span>
-        <h3>
-          <a href="https://www.accenture.com" target="_blank">
-            Accenture
-          </a>
-        </h3>
+        <h3><a href="https://www.accenture.com" target="_blank">Accenture</a></h3>
         <p class="muted">
           Software Engineer (Jun 2020 – Dec 2020)<br>
-          Associate Software Engineer (Aug 2018 – Jun 2020)<br>
+          ↑ Promoted from Associate Software Engineer (Aug 2018 – Jun 2020)<br>
           Hyderabad, India
         </p>
         <ul>
-          <li>Developed C++ middleware systems and improved production reliability through structured testing and root-cause analysis.</li>
+          <li>Engineered C++ middleware systems and improved production stability through structured debugging and validation.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- OSMANIA UNIVERSITY -->
+  <!-- EDUCATION BLOCKS (LEFT SIDE ONLY) -->
+
+  <!-- MS -->
+  <div class="tl-item">
+    <div class="tl-left">
+      <div class="tl-date">2021 – 2024</div>
+      <div class="tl-card education">
+        <span class="tl-tag education">Education</span>
+        <h3><a href="https://www.uc.edu" target="_blank">University of Cincinnati</a></h3>
+        <p class="muted">M.S. Mechanical Engineering · 2024</p>
+        <ul>
+          <li>Focused on robotics, autonomy, and reinforcement learning.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="tl-mid"><div class="tl-dot education"></div></div>
+    <div class="tl-right"></div>
+  </div>
+
+  <!-- BE -->
   <div class="tl-item">
     <div class="tl-left">
       <div class="tl-date">2014 – 2018</div>
@@ -136,7 +137,7 @@ Focused on building deployable robotic systems with measurable performance impro
         <h3>Osmania University</h3>
         <p class="muted">B.E. Mechanical Engineering</p>
         <ul>
-          <li>Foundational training in mechanics, control systems, and system design.</li>
+          <li>Foundations in mechanics, control systems, and system modeling.</li>
         </ul>
       </div>
     </div>
@@ -146,13 +147,21 @@ Focused on building deployable robotic systems with measurable performance impro
 
 </div>
 
+## Skills
+
+**Robotics & Middleware:** ROS / ROS2, Nav2, MoveIt  
+**Simulation:** Isaac Sim, MuJoCo, Gazebo  
+**Embedded & Compute:** NVIDIA Jetson (Orin family), CUDA, TensorRT  
+**Programming:** Python, C++ (C++17), MATLAB  
+**Tools:** Git, Docker, Linux  
+
 ## Robots & Sensors
 
 **Robotic Platforms:**  
-Unitree Go2 · Unitree B2 · Unitree G1 · Trossen WidowX AI Arm · Inspire & BrainCo robotic hands  
+Unitree Go2 · B2 · G1 · Trossen WidowX AI Arm · Inspire & BrainCo robotic hands  
 
 **Sensors:**  
-Intel RealSense depth cameras · Livox Mid-360 · Robosense Helios · FLIR thermal cameras · CrySound acoustic imager · RGB cameras · IMU · LiDAR  
+Intel RealSense · Livox Mid-360 · Robosense Helios · FLIR thermal · CrySound acoustic imager · RGB cameras · IMU · LiDAR  
 
 ## Publication
 
