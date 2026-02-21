@@ -213,7 +213,7 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
       <div class="tl-date">May 2016 – Aug 2016</div>
 
       <div class="tl-card work full reveal">
-        <span class="tl-tag work">Internship</span>
+        <span class="tl-tag work">Work</span>
         <h3>South Central Railway</h3>
         <p class="muted">Mechanical Engineering Intern · Hyderabad, India · On-site</p>
         <ul>
