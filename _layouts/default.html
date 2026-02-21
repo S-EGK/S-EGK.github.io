@@ -7,15 +7,18 @@
   <meta name="description" content="{{ site.description }}" />
   <link rel="stylesheet" href="/assets/css/main.css" />
 </head>
+
 <body>
   <header class="site-header">
-    <div class="container">
+    <div class="container header-row">
       <a class="brand" href="/">{{ site.title }}</a>
+
       <nav class="nav">
         <a href="/projects/">Projects</a>
         <a href="/research/">Research</a>
         <a href="/resume/">Resume</a>
         <a href="/contact/">Contact</a>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">🌓</button>
       </nav>
     </div>
   </header>
@@ -25,9 +28,31 @@
   </main>
 
   <footer class="site-footer">
-    <div class="container">
+    <div class="container footer-row">
       <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
+      <span class="muted">Built on GitHub Pages</span>
     </div>
   </footer>
+
+  <script>
+  (() => {
+    const key = "theme";
+    const root = document.documentElement;
+
+    // Apply saved theme early (if present)
+    const saved = localStorage.getItem(key);
+    if (saved === "dark" || saved === "light") root.setAttribute("data-theme", saved);
+
+    const btn = document.querySelector(".theme-toggle");
+    if (!btn) return;
+
+    btn.addEventListener("click", () => {
+      const cur = root.getAttribute("data-theme") || "light";
+      const next = (cur === "dark") ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      localStorage.setItem(key, next);
+    });
+  })();
+  </script>
 </body>
 </html>
