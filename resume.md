@@ -7,169 +7,152 @@ permalink: /resume/
 ## Professional Summary
 
 Robotics Engineer specializing in autonomy, perception, and embedded deployment on NVIDIA Jetson platforms. 
-Experience spans simulation-to-hardware validation, real-time vision pipelines, ROS 2 autonomy stacks, and ML optimization using TensorRT and CUDA. 
-Focused on building deployable robotic systems with measurable performance gains.
-
----
+Experience spans simulation-to-hardware validation, ROS 2 autonomy stacks, real-time vision pipelines, and ML optimization using TensorRT and CUDA. 
+Focused on building deployable robotic systems with measurable performance improvements and field reliability.
 
 <div class="timeline">
 
-  <!-- Lead Robotics Engineer -->
+  <!-- STOKES ROBOTICS (merged roles) -->
   <div class="tl-item">
     <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
+    <div class="tl-mid"><div class="tl-dot work"></div></div>
     <div class="tl-right">
-      <div class="tl-date">Jun 2025 – Present</div>
-      <div class="tl-card">
-        <span class="tl-tag">Work</span>
-        <h3>Lead Robotics Engineer · <a href="https://stokesrobotics.com" target="_blank">Stokes Robotics</a></h3>
-        <p class="muted">Joplin, MO · On-site</p>
+      <div class="tl-date">Jan 2025 – Present</div>
+      <div class="tl-card work">
+        <span class="tl-tag work">Work</span>
+        <h3>
+          <a href="https://stokesrobotics.com" target="_blank">
+            Stokes Robotics
+          </a>
+        </h3>
+        <p class="muted">Lead Robotics Engineer (Jun 2025 – Present)<br>
+        Robotics Engineering Intern (Jan 2025 – Jun 2025)<br>
+        Joplin, MO · On-site</p>
         <ul>
-          <li>Led autonomy, simulation validation, and embedded perception deployment for multi-robot platforms, delivering real-time Jetson-optimized pipelines.</li>
+          <li>Delivered simulation-driven autonomy and Jetson-optimized perception pipelines enabling real-time multi-robot deployment.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Robotics Engineering Intern -->
+  <!-- VISTRUAZ -->
   <div class="tl-item">
     <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
-    <div class="tl-right">
-      <div class="tl-date">Jan 2025 – Jun 2025</div>
-      <div class="tl-card">
-        <span class="tl-tag">Internship</span>
-        <h3>Robotics Engineering Intern · <a href="https://stokesrobotics.com" target="_blank">Stokes Robotics</a></h3>
-        <p class="muted">Joplin, MO · On-site</p>
-        <ul>
-          <li>Developed ROS 2 autonomy and simulation workflows (Isaac Sim, MuJoCo, Gazebo) reducing hardware iteration cycles.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- AI Research Assistant -->
-  <div class="tl-item">
-    <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
+    <div class="tl-mid"><div class="tl-dot research"></div></div>
     <div class="tl-right">
       <div class="tl-date">Aug 2024 – Jan 2025</div>
-      <div class="tl-card">
-        <span class="tl-tag">Research</span>
-        <h3>AI Research Assistant · <a href="https://vistruaz.com" target="_blank">Vistruaz LLC</a></h3>
-        <p class="muted">Remote</p>
+      <div class="tl-card research">
+        <span class="tl-tag research">Research</span>
+        <h3>
+          <a href="https://vistruaz.com" target="_blank">
+            Vistruaz LLC
+          </a>
+        </h3>
+        <p class="muted">AI Research Assistant · Remote</p>
         <ul>
-          <li>Implemented complex-valued neural networks and model introspection tooling for research evaluation.</li>
+          <li>Implemented complex-valued neural networks and model observability tooling for experimental evaluation.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Lead Instructional Coach -->
+  <!-- UNIVERSITY OF CINCINNATI (merged academic roles + degree) -->
   <div class="tl-item">
-    <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
-    <div class="tl-right">
-      <div class="tl-date">Sep 2023 – Apr 2024</div>
-      <div class="tl-card">
-        <span class="tl-tag">Academic</span>
-        <h3>Lead Instructional Coach · <a href="https://www.uc.edu" target="_blank">University of Cincinnati</a></h3>
-        <p class="muted">Cincinnati, OH · On-site</p>
+    <div class="tl-left">
+      <div class="tl-date">2021 – 2024</div>
+      <div class="tl-card education">
+        <span class="tl-tag education">Education</span>
+        <h3>
+          <a href="https://www.uc.edu" target="_blank">
+            University of Cincinnati
+          </a>
+        </h3>
+        <p class="muted">
+          M.S. Mechanical Engineering (2024)<br>
+          Lead Instructional Coach (Sep 2023 – Apr 2024)<br>
+          Graduate Research Assistant (Dec 2022 – Apr 2023)
+        </p>
         <ul>
-          <li>Led instructional support for engineering coursework, mentoring students in robotics and technical problem-solving.</li>
+          <li>Conducted autonomy and reinforcement learning research resulting in AIAA SCITECH 2023 publication.</li>
         </ul>
       </div>
     </div>
+    <div class="tl-mid"><div class="tl-dot education"></div></div>
+    <div class="tl-right"></div>
   </div>
 
-  <!-- ML Intern -->
+  <!-- CATTLEQUANTS -->
   <div class="tl-item">
     <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
+    <div class="tl-mid"><div class="tl-dot work"></div></div>
     <div class="tl-right">
       <div class="tl-date">May 2023 – Sep 2023</div>
-      <div class="tl-card">
-        <span class="tl-tag">Internship</span>
-        <h3>Machine Learning Intern · <a href="https://cattlequants.com" target="_blank">CattleQuants</a></h3>
-        <p class="muted">Remote</p>
+      <div class="tl-card work">
+        <span class="tl-tag work">Work</span>
+        <h3>
+          <a href="https://cattlequants.com" target="_blank">
+            CattleQuants
+          </a>
+        </h3>
+        <p class="muted">Machine Learning Intern · Remote</p>
         <ul>
-          <li>Built and optimized a U-Net segmentation pipeline and deployed TensorRT models for embedded inference on Jetson.</li>
+          <li>Built and optimized U-Net segmentation pipelines and deployed TensorRT inference on embedded Jetson platforms.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Graduate Research Assistant -->
+  <!-- ACCENTURE (merged roles) -->
   <div class="tl-item">
     <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
-    <div class="tl-right">
-      <div class="tl-date">Dec 2022 – Apr 2023</div>
-      <div class="tl-card">
-        <span class="tl-tag">Research</span>
-        <h3>Graduate Research Assistant · <a href="https://ceas.uc.edu" target="_blank">University of Cincinnati – CEAS</a></h3>
-        <p class="muted">Hybrid</p>
-        <ul>
-          <li>Conducted reinforcement learning research leading to peer-reviewed AIAA SCITECH 2023 publication.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Accenture -->
-  <div class="tl-item">
-    <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
+    <div class="tl-mid"><div class="tl-dot work"></div></div>
     <div class="tl-right">
       <div class="tl-date">Aug 2018 – Dec 2020</div>
-      <div class="tl-card">
-        <span class="tl-tag">Work</span>
-        <h3>Software Engineer · <a href="https://www.accenture.com" target="_blank">Accenture</a></h3>
-        <p class="muted">Hyderabad, India</p>
+      <div class="tl-card work">
+        <span class="tl-tag work">Work</span>
+        <h3>
+          <a href="https://www.accenture.com" target="_blank">
+            Accenture
+          </a>
+        </h3>
+        <p class="muted">
+          Software Engineer (Jun 2020 – Dec 2020)<br>
+          Associate Software Engineer (Aug 2018 – Jun 2020)<br>
+          Hyderabad, India
+        </p>
         <ul>
-          <li>Developed C++ middleware for enterprise systems and reduced production failures through structured testing and root-cause analysis.</li>
+          <li>Developed C++ middleware systems and improved production reliability through structured testing and root-cause analysis.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Mechanical Engineering Intern -->
+  <!-- OSMANIA UNIVERSITY -->
   <div class="tl-item">
-    <div class="tl-left"></div>
-    <div class="tl-mid"><div class="tl-dot"></div></div>
-    <div class="tl-right">
-      <div class="tl-date">May 2016 – Aug 2016</div>
-      <div class="tl-card">
-        <span class="tl-tag">Internship</span>
-        <h3>Mechanical Engineering Intern · South Central Railway</h3>
-        <p class="muted">Hyderabad, India</p>
+    <div class="tl-left">
+      <div class="tl-date">2014 – 2018</div>
+      <div class="tl-card education">
+        <span class="tl-tag education">Education</span>
+        <h3>Osmania University</h3>
+        <p class="muted">B.E. Mechanical Engineering</p>
         <ul>
-          <li>Performed mechanical system inspection and maintenance planning within railway operations.</li>
+          <li>Foundational training in mechanics, control systems, and system design.</li>
         </ul>
       </div>
     </div>
+    <div class="tl-mid"><div class="tl-dot education"></div></div>
+    <div class="tl-right"></div>
   </div>
 
 </div>
 
----
-
-## Education
-
-- **M.S. Mechanical Engineering** — <a href="https://www.uc.edu" target="_blank">University of Cincinnati</a>, 2024  
-- **B.E. Mechanical Engineering** — Osmania University, 2018  
-
----
-
 ## Robots & Sensors
 
 **Robotic Platforms:**  
-Unitree Go2, B2, G1 · Trossen WidowX AI Arm · Inspire & BrainCo robotic hands  
+Unitree Go2 · Unitree B2 · Unitree G1 · Trossen WidowX AI Arm · Inspire & BrainCo robotic hands  
 
 **Sensors:**  
 Intel RealSense depth cameras · Livox Mid-360 · Robosense Helios · FLIR thermal cameras · CrySound acoustic imager · RGB cameras · IMU · LiDAR  
-
----
 
 ## Publication
 
