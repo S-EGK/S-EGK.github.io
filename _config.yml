@@ -1,39 +1,6 @@
-
-title: "Srikanth EGK"
-description: "Robotics Engineer — Portfolio & Resume"
-url: "https://s-egk.github.io"
-baseurl: ""
-theme: null
+title: Srikanth E.G.K.
+description: Robotics / Perception / Autonomy — portfolio, projects, and research.
 markdown: kramdown
 kramdown:
   input: GFM
-permalink: /blog/:year/:month/:day/:title/
-paginate: 5
-
-# Toggles
-blog_enabled: true   # set to false to hide the Blog from nav
-projects_source: "github"  # "github" or "data"
-github_username: "s-egk"
-
-# Analytics (set one or both; leave blank to disable)
-plausible_domain: "s-egk.github.io"   # set empty "" to disable
-ga4_measurement_id: ""                # e.g., G-XXXXXXXXXX
-
-# SEO
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Social
-social:
-  github: "https://github.com/s-egk"
-  linkedin: "https://www.linkedin.com/in/srikanthegk"
-  scholar: "https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en"
-  ORCID: "https://orcid.org/my-orcid?orcid=0000-0002-1354-7836"
-  youtube: ""
-
-# Contact
-contact:
-  method: "formspree"
-  formspree_endpoint: "https://formspree.io/f/xrbljedv"   # Add your Formspree endpoint here later
+permalink: pretty

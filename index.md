@@ -1,38 +1,47 @@
-
 ---
-layout: base
-title: "Home"
+layout: page
+title: Home
+permalink: /
 ---
 
-<section class="hero">
-  <div class="hero-inner">
-    <h1>Srikanth Elkoori Ghantala Karnam</h1>
-    <p class="subtitle">Lead Robotics Engineer — Quadrupeds · Humanoids · Perception · SLAM</p>
-    <div class="cta">
-      <a class="btn" href="{{ '/projects/' | relative_url }}">View Projects</a>
-      <a class="btn btn-ghost" href="{{ '/resume/' | relative_url }}">Download Resume</a>
-    </div>
+<div class="hero">
+  <h1>Srikanth Karnam</h1>
+  <p class="tagline">
+    Robotics / Autonomy / Perception engineer. I build deployable systems—sensor to action—on real robots.
+    Strengths: Jetson deployment, real-time vision, systems integration, and measurable performance improvements.
+  </p>
+
+  <div class="btnrow">
+    <a class="btn primary" href="/assets/Srikanth_Karnam_Resume.pdf">Download Resume (PDF)</a>
+    <a class="btn" href="/projects/">View Projects</a>
+    <a class="btn" href="/contact/">Contact</a>
   </div>
-</section>
 
-<section id="about" class="section">
-  <h2>About</h2>
-  <p>Robotics engineer focused on autonomous navigation for Unitree platforms (B2, G1), LiDAR/IMU fusion, RealSense, and edge AI on Jetson Orin. I build end-to-end systems: perception, planning, speech, and custom hardware.</p>
-</section>
-
-<section id="skills" class="section">
-  <h2>Skills</h2>
-  <ul class="pill-list">
-    <li>Python</li><li>C/C++</li><li>ROS/ROS2</li><li>TensorFlow</li><li>PyTorch</li>
-    <li>OpenCV</li><li>CUDA</li><li>Gazebo</li><li>Rviz</li><li>Docker</li>
+  <ul class="kv">
+    <li>Robotics</li><li>Computer Vision</li><li>Jetson</li><li>ROS/ROS2</li><li>Python/C++</li><li>Real-time systems</li>
   </ul>
-</section>
+</div>
 
-<section id="highlights" class="section">
-  <h2>Highlights</h2>
-  <ul class="highlights">
-    <li>Autonomous navigation on Unitree B2 with Robosense LiDAR + RealSense D435i + IMU</li>
-    <li>Offline AI voice assistant for Unitree G1 (real-time task execution)</li>
-    <li>Custom payloads & integrations for security, monitoring, and industrial assistance</li>
-  </ul>
-</section>
+## Featured projects
+<div class="grid">
+  <div class="card col-6">
+    <h3>Project 1 — Outcome headline</h3>
+    <p><b>Impact:</b> Add 1–2 metrics (fps, latency, success rate, accuracy, cost reduction).</p>
+    <p><b>Stack:</b> ROS2, Jetson Orin, RealSense, TensorRT, Python/C++</p>
+    <p><a href="/projects/#project-1">Details →</a></p>
+  </div>
+
+  <div class="card col-6">
+    <h3>Project 2 — Outcome headline</h3>
+    <p><b>Impact:</b> Add 1–2 metrics.</p>
+    <p><b>Stack:</b> …</p>
+    <p><a href="/projects/#project-2">Details →</a></p>
+  </div>
+</div>
+
+## Experience snapshot
+- **Role / Company** — 2–3 bullets focused on results + scope + tools.
+- **Role / Company** — 2–3 bullets.
+
+## What I’m looking for
+Robotics / autonomy / perception roles where shipping to hardware matters (deployment, reliability, performance).
