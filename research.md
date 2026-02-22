@@ -6,8 +6,8 @@ title: Research
 
 ## Research Profiles
 
--   ORCID: https://orcid.org/0000-0002-1354-7836
--   Google Scholar: https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en
+-   **[ORCID](https://orcid.org/0000-0002-1354-7836)**
+-   **[Google Scholar](https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en)**
 
 ## Research Focus
 
@@ -31,28 +31,14 @@ grid environments with partial and erroneous local information.\
 Analyzed policy robustness under sensor noise and evaluated convergence
 stability across discrete decision models.
 
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}BibTeX`</strong>`{=html}
-```{=html}
-</summary>
-```
-``` bibtex
+<details><summary><strong>BibTeX</strong></summary>
 @mastersthesis{elkoori2024deep,
   title={Deep Reinforcement Learning based pursuit of a ground target in a grid with local and erroneous information},
   author={Elkoori Ghantala Karnam, Srikanth},
   year={2024},
   school={University of Cincinnati}
 }
-```
-
-```{=html}
 </details>
-```
 
 ## Conference Paper
 
@@ -67,17 +53,7 @@ evaluated policy convergence under constrained sensing.
 
 DOI: 10.2514/6.2023-2654
 
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}BibTeX`</strong>`{=html}
-```{=html}
-</summary>
-```
-``` bibtex
+<details> <summary><strong>BibTeX</strong></summary>
 @inproceedings{elkoori2023q,
   title={Q-Learning Based Search of a Ground Target in a grid with partial information},
   author={Elkoori Ghantala Karnam, Srikanth and Sharma, Rajnikant},
@@ -85,11 +61,7 @@ DOI: 10.2514/6.2023-2654
   pages={2654},
   year={2023}
 }
-```
-
-```{=html}
 </details>
-```
 
 ## Conference Presentations
 
