@@ -244,7 +244,7 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
 <div class="badge-row">
   <div class="badge-label">Embedded & Compute</div>
   <div class="badges">
-    <span class="badge">Jetson (Orin family)</span><span class="badge">TensorRT</span><span class="badge">CUDA</span>
+    <span class="badge">Nvidia Jetson</span><span class="badge">TensorRT</span><span class="badge">CUDA</span>
   </div>
 </div>
 
@@ -258,7 +258,7 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
 <div class="badge-row">
   <div class="badge-label">Tools</div>
   <div class="badges">
-    <span class="badge">Linux</span><span class="badge">Docker</span><span class="badge">Git</span>
+    <span class="badge">Linux</span><span class="badge">Docker</span><span class="badge">Git</span><span class="badge">SolidWorks</span>
   </div>
 </div>
 
@@ -295,7 +295,7 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
 <div class="badge-row">
   <div class="badge-label">LiDAR</div>
   <div class="badges">
-    <span class="badge">Livox Mid-360</span><span class="badge">Robosense Helios</span>
+    <span class="badge">Livox Mid-360</span><span class="badge">Robosense Helios 32</span>
   </div>
 </div>
 
@@ -317,20 +317,6 @@ Robotics Engineer specializing in autonomy, perception, and embedded AI deployme
   <div class="badge-label">Acoustic</div>
   <div class="badges">
     <span class="badge">CrySound acoustic imager</span>
-  </div>
-</div>
-
-<div class="badge-row">
-  <div class="badge-label">Vision</div>
-  <div class="badges">
-    <span class="badge">RGB cameras</span>
-  </div>
-</div>
-
-<div class="badge-row">
-  <div class="badge-label">State Estimation</div>
-  <div class="badges">
-    <span class="badge">IMU</span>
   </div>
 </div>
 

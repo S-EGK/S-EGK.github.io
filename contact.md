@@ -71,7 +71,7 @@ permalink: /contact/
     <div class="details-list">
       <div class="detail-item">
         <div class="detail-label">Name</div>
-        <div class="detail-value">Srikanth Karnam</div>
+        <div class="detail-value">Srikanth Elkoori Ghantala Karnam</div>
       </div>
 
       <div class="detail-item">
