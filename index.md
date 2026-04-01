@@ -2,9 +2,10 @@
 layout: page
 title: Home
 permalink: /
+hide_title: true
 ---
 
-## Srikanth Elkoori Ghantala Karnam
+# Srikanth Elkoori Ghantala Karnam
 Robotics / Autonomy / Perception / Edge ML.
 
 ## About Me

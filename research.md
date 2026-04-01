@@ -17,7 +17,7 @@ Applications include UAV-assisted sensing, autonomous search strategies,
 and grid-based policy learning under uncertainty.
 
 
-# Publications & Thesis
+## Publications & Thesis
 
 ## Master's Thesis
 
